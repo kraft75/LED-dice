@@ -1,0 +1,4 @@
+3.1.2.1 Entprellen | Debouncing
+
+Mehrere Pins einrichten
+for(i=0;i<20;i++) pinMode(i,OUTPUT);
